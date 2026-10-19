@@ -1,0 +1,16 @@
+torch
+torchvision
+open_clip_torch
+tabpfn
+flwr
+opacus
+pandas
+plotly
+kagglehub
+pillow
+scikit-learn
+joblib
+pytest
+fastapi
+uvicorn
+python-multipart
