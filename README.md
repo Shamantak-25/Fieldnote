@@ -100,8 +100,3 @@ python server.py
 Open your browser at **[http://localhost:8000](http://localhost:8000)**.
 
 ---
-
-## 🎓 Academic Attribution
-- **Course:** BCSE209L
-- **Faculty:** Dr. S. Sridevi
-- **Category:** Category 3 — Community Service Project
